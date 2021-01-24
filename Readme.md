@@ -24,7 +24,7 @@
 			  c = a * b;
 		- Multiply with number
 			  float x;
-			  c = a * x;                                                                       - every number in matrix multiplied with x
+			  c = a * x;                                                                 - every number in matrix multiplied with x
 		- Subtract
 			  c = a - b;
 		- Division
